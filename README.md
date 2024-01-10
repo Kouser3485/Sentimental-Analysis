@@ -4,7 +4,7 @@ This repository contains a Python script for sentimental analysis without utiliz
 
 ## How it Works
 
-1. The script starts by reading the content present in the 'read.txt' file. The file can contain any English language text. The use of `# encoding` is employed to read data encoded in a specific format, commonly found in internet blogs.
+1. The script starts by reading the content present in the 'read.txt' file. The file can contain any English language text. The use of `# encoding` is employed to read data encoded in a specific format, commonly found in internet blogs.(YOU CAN ADD THE TEXT CONTENT OF YOUR CHOICE INTO read.xt )
 
 2. Based on the content of 'read.txt', the script identifies main keywords representing emotions. These keywords are selected by comparing them with the keywords present in the 'emotion.txt' file.
 
